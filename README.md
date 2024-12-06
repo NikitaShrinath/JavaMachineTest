@@ -4,7 +4,7 @@ This is a Spring Boot application implementing a RESTful API for managing Catego
 
 Spring Boot
 JPA with Hibernate for ORM
-MySQL as the database (you can replace it with any RDBMS)
+MySQL as the database
 
 My SQL Querys:
 
